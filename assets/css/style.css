@@ -1,3 +1,4 @@
+/* General styling */
 * {
     margin: 0;
     padding: 0;
@@ -70,12 +71,30 @@ figure img {
 
 
     /* IMAGE LINKS STYLING BEGIN */
-
         .image-links {
-            display: flex; 
+            display: flex;
+            flex-wrap: wrap;
         }
 
-        .break {
+    /* First image link that's bigger */
+        .break-icon {
+            width: 400px;
+        }
+
+        .first-image {
+        padding: 30px;
+        text-align: center;
+    }
+
+    /* Styling for the rest of the image links after the first large one */
+
+        .sonic-tantrum {
+            width: 300px;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .tk-sa {
             width: 300px;
             padding: 10px;
             text-align: center;
@@ -87,13 +106,45 @@ figure img {
             text-align: center;
         }
 
-        /* Creates hover filter/resize effect on image links */
-        .break:hover {
+        .reprieve {
+            width: 300px;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .lusus {
+            width: 300px;
+            padding: 10px;
+            text-align: center;
+        }
+
+     /* Creates hover filter/resize effect on image links */
+        .first-image:hover {
+            transform: scale(1.05);
+            opacity: 0.8;
+        }
+
+        .sonic-tantrum:hover {
+            transform: scale(1.05);
+            opacity: 0.8;
+        }
+
+        .tk-sa:hover {
             transform: scale(1.05);
             opacity: 0.8;
         }
 
         .lmsf:hover {
+            transform: scale(1.05);
+            opacity: 0.8;
+        }
+
+        .reprieve:hover {
+            transform: scale(1.05);
+            opacity: 0.8;
+        }
+
+        .lusus:hover {
             transform: scale(1.05);
             opacity: 0.8;
         }
@@ -113,7 +164,7 @@ figure img {
 /* CONTENT SECTION STYLING ENDS */
 
 
-
+/* Screen resizablility */
 @media (max-width: 1246px) {
     nav {
         display:flex;
