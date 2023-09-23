@@ -1,44 +1,44 @@
 /* General styling */
-* {
-    margin: 0;
-    padding: 0;
-}
+    * {
+        margin: 0;
+        padding: 0;
+    }
 
-body {
-    width: 100%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #7c7c7c;
-}
+    body {
+        width: 100%;
+        height: 100%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #7c7c7c;
+    }
 
 /* NAV BAR STYLING */
-nav {
-    display:flex;
-    align-items: center;
-    background-color: rgb(82, 82, 82);
-    height: 70px;
-    justify-content: space-between;
-}
+    nav {
+        display:flex;
+        align-items: center;
+        background-color: rgb(82, 82, 82);
+        height: 70px;
+        justify-content: space-between;
+    }
 
-nav ul li {
-    display:inline-block;
-    font-size: 30px;
-    margin-right: 20px; 
-}
+    nav ul li {
+        display:inline-block;
+        font-size: 30px;
+        margin-right: 20px; 
+    }
 
-.links {
-    color: rgb(255, 255, 255);
-}
+    .links {
+        color: rgb(255, 255, 255);
+    }
 
-h1.navbar {
-    font-size: 55px;
-}
+    h1.navbar {
+        font-size: 55px;
+    }
 
 
-figure img {
-    width: 100%;
-    margin-bottom: 20px;
-}
+    figure img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
 
 /* CONTENT SECTIONS */
 
