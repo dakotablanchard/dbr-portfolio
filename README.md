@@ -1,60 +1,51 @@
-## wc-module-2
+# Dakota Blanchard Recording Portfolio
 
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them ✅
+The purpose of this site is to showcase my work to a potential client or employer.
 
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section ✅
+Click [here](https://dakotablanchard.github.io/dbr-portfolio/) to launch the site.
 
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications ✅
+The top of the site should look like the following image:
 
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others✅
+![Screenshot of deployed site](./assets/images/live-site1.png)
 
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application ✅
+## Navigating the site:
+Click on the "About Me" link in the navigation bar to be taken to a section with information about myself.
 
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport ✅
+![Screenshot of about me section](./assets/images/about-me.png)
 
+Click on the "Recent Work" link in the navigation bar to be taken to a section with links to recent audio work I've done.
+Simply click on any album to be redirected to Spotify where you can listen to that album.
 
+![Screenshot of recent work section](./assets/images/recent-work.png)
+
+Click on the "Contact Info" link in the navigation bar to be taken to a section with links to recent ausio work I've done.
+
+![Screenshot of contact info section](./assets/images/contact-info.png)
 
 # Credits
 
-Making a nav bar horizontal
-https://www.w3schools.com/css/css_navbar_horizontal.asp
+[Making A Nav Bar Horizontal](https://www.w3schools.com/css/css_navbar_horizontal.asp)
 
-Creating a nav bar
-https://www.youtube.com/watch?v=oLgtucwjVII
+[Creating A Nav Bar](https://www.youtube.com/watch?v=oLgtucwjVII)
 
-Making an image span the page
-https://stackoverflow.com/questions/12082913/with-css-how-do-i-make-an-image-span-the-full-width-of-the-page-as-a-background
+[Making An Image Span The Page](https://stackoverflow.com/questions/12082913/with-css-how-do-i-make-an-image-span-the-full-width-of-the-page-as-a-background)
 
-Link colors
-https://www.youtube.com/watch?v=kWZ-8DA58nU
+[Changing Link colors](https://www.youtube.com/watch?v=kWZ-8DA58nU)
 
-Making an image a link:
-https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML
+[Making An Image A Link](https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML)
 
-Creating hover effect on image links:
-https://www.youtube.com/watch?v=Himo9n0BaDw
+[Creating Hover Effect On Image Links](https://www.youtube.com/watch?v=Himo9n0BaDw)
 
-Centering text with image:
-https://stackoverflow.com/questions/1225130/how-can-i-align-text-directly-beneath-an-image
+[Centering Text With Image](https://stackoverflow.com/questions/1225130/how-can-i-align-text-directly-beneath-an-image)
 
-Hover resize:
-https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+[Hover Resize](https://www.w3schools.com/howto/howto_css_zoom_hover.asp)
 
-Media Queries:
-https://www.youtube.com/watch?v=2KL-z9A56SQ&t=180s
+[Media Queries](https://www.youtube.com/watch?v=2KL-z9A56SQ&t=180s)
 
-Screen resize issue:
-https://stackoverflow.com/questions/4612307/website-has-strange-whitespace-on-right-side-of-the-page-when-the-browser-is-res
+[Screen Resize Issue](https://stackoverflow.com/questions/4612307/website-has-strange-whitespace-on-right-side-of-the-page-when-the-browser-is-res)
 
+## License
 
+Refer to the LICENSE file in the repo:
 
-
-
-
-
-
+[License](https://github.com/dakotablanchard/dbr-portfolio/blob/main/LICENSE)
