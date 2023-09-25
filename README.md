@@ -18,7 +18,7 @@ Simply click on any album to be redirected to Spotify where you can listen to th
 
 ![Screenshot of recent work section](./assets/images/recent-work.png)
 
-Click on the "Contact Info" link in the navigation bar to be taken to a section with links to recent ausio work I've done.
+Click on the "Contact Info" link in the navigation bar to be taken to a section with links to recent audio work I've done.
 
 ![Screenshot of contact info section](./assets/images/contact-info.png)
 
